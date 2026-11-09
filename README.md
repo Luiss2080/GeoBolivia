@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="docs/assets/logo.svg" width="96" alt="Logo de GeoBolivia" />
   <h1>🗺️ GeoBolivia</h1>
   <p><b>Los 9 departamentos de Bolivia con código INE, ISO 3166-2, capital, sigla de CI y prefijo telefónico; búsqueda sin tildes. Cero dependencias.</b></p>
   <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue?style=for-the-badge" alt="Versión 1.0.0" />
@@ -85,7 +86,7 @@ Incluye departamentos. Provincias y municipios aún no están incluidos; se agre
 
 ## 🤝 Contribuir
 
-¡Las contribuciones son bienvenidas! Para bugs o ideas abre un issue y, antes de enviar un PR, corre `npm test` para confirmar que todo pasa. Si agregas datos, cita la fuente oficial.
+¡Las contribuciones son bienvenidas! Lee la [guía de contribución](CONTRIBUTING.md) y el [código de conducta](CODE_OF_CONDUCT.md) antes de abrir un PR. Para bugs o ideas abre un issue; los problemas de seguridad se reportan según la [política de seguridad](SECURITY.md). ¿Dudas? Mira [SUPPORT.md](SUPPORT.md). Los cambios por versión están en el [CHANGELOG](CHANGELOG.md).
 
 ## 📄 Licencia
 

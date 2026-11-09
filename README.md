@@ -1,9 +1,9 @@
-# @luiss2080/bolivia-geo
+# GeoBolivia
 
 Los **9 departamentos de Bolivia** como datos tipados y listos para formularios: código INE, ISO 3166-2, capital, sigla de expedición de CI y prefijo telefónico de área. Búsqueda sin tildes ni mayúsculas. Cero dependencias.
 
 ```js
-import { buscarDepartamento, sugerir, departamentos, departamentosPorPrefijo } from '@luiss2080/bolivia-geo';
+import { buscarDepartamento, sugerir, departamentos, departamentosPorPrefijo } from '@luiss2080/geobolivia';
 
 buscarDepartamento('POTOSI');          // { codigoINE: '05', iso: 'BO-P', nombre: 'Potosí', ... }
 buscarDepartamento('lp').nombre;       // 'La Paz'  (por sigla de CI)
@@ -25,7 +25,7 @@ Se publica en GitHub Packages. Agrega a tu `.npmrc`:
 ```
 
 ```bash
-npm install @luiss2080/bolivia-geo
+npm install @luiss2080/geobolivia
 ```
 
 > GitHub Packages pide autenticarse (token con `read:packages`) incluso para paquetes públicos.

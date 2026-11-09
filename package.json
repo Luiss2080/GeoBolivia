@@ -1,5 +1,5 @@
 {
-  "name": "@luiss2080/bolivia-geo",
+  "name": "@luiss2080/geobolivia",
   "version": "1.0.0",
   "description": "Los 9 departamentos de Bolivia con código INE, ISO 3166-2, capital, sigla de CI y prefijo telefónico; búsqueda sin tildes. Cero dependencias.",
   "type": "module",
@@ -11,8 +11,8 @@
   "author": "Luis Rocha <https://github.com/Luiss2080>",
   "license": "MIT",
   "engines": { "node": ">=18" },
-  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/bolivia-geo.git" },
-  "bugs": "https://github.com/Luiss2080/bolivia-geo/issues",
-  "homepage": "https://github.com/Luiss2080/bolivia-geo#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/GeoBolivia.git" },
+  "bugs": "https://github.com/Luiss2080/GeoBolivia/issues",
+  "homepage": "https://github.com/Luiss2080/GeoBolivia#readme",
   "publishConfig": { "registry": "https://npm.pkg.github.com", "access": "public" }
 }

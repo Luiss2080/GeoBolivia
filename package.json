@@ -1,6 +1,6 @@
 {
   "name": "@luiss2080/geobolivia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Los 9 departamentos de Bolivia con código INE, ISO 3166-2, capital, sigla de CI y prefijo telefónico; búsqueda sin tildes. Cero dependencias.",
   "type": "module",
   "main": "index.js",
